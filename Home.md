@@ -2,7 +2,7 @@
 
 ### Why we exist
 
-To help Bixal capitalize on and create new business opportunities by engaging in structured design challenges, self-directed initiatives, and open-source projects.
+To help Bixal explore new business opportunities by engaging in structured design challenges, self-directed initiatives, and open-source projects.
 
 ### Our objectives
 
