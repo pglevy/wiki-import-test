@@ -1,0 +1,5 @@
+* [COVID vaccine verification app](https://adhocteam.us/2021/01/28/prototyping-covid-vaccine-verification-app/) (Ad-Hoc)
+* [County elections website template](https://www.usdigitalresponse.org/our-projects/county-elections-website-template/) (USDR)
+* [Small business relief loan eligibility tool](https://businessrelief.usdigitalresponse.org/) (USDR)
+* [COVID support mapping tool](https://nccovidsupport.org/) (NC-based Code for America Brigade)
+* [Tax help finder for underserved communities POC](https://codepen.io/pglevy/full/NWbVPje) (Bixal)
