@@ -1,6 +1,7 @@
 * [Home](https://github.com/Bixal/rapid-response-team/wiki)
 * [Roadmap](https://github.com/Bixal/rapid-response-team/projects/1)
 * [Milestones](https://github.com/Bixal/rapid-response-team/milestones)
+* [Projects](https://github.com/Bixal/rapid-response-team/projects)
 * [Working agreement](https://github.com/Bixal/rapid-response-team/wiki/Working-agreement)
 * [Inspiration](https://github.com/Bixal/rapid-response-team/wiki/Inspiration)
 * [Tools](https://github.com/Bixal/rapid-response-team/wiki/Tools)
