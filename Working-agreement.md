@@ -1,3 +1,5 @@
+This will completed as part of [Issue 2](https://github.com/Bixal/rapid-response-team/issues/2).
+
 Sections:
 - Process
 - Team members
