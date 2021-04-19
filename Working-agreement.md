@@ -16,6 +16,9 @@ Sections:
 
 # Team members
 
+- Team lead: Philip
+- Designer: Kayla
+- Design Technologist: TBA
 
 # Meetings
 
