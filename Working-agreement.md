@@ -10,6 +10,12 @@ Sections:
 # Process
 The general approach is inspired by [*Shape Up*](https://basecamp.com/shapeup) from Basecamp.
 
+High-level sequence:
+- Gather [ideas](https://github.com/Bixal/rapid-response-team/discussions/categories/ideas).
+- Form promising ideas into a [pitch](Pitch-template).
+- Product owner adds pitch to a cycle.
+- Work is completed and launched during at end of cycle.
+
 ## Types of work
 The team has two streams of work: *planned work* done in regularly scheduled cycles and *unplanned work* picked up in response to business development opportunities.
 
