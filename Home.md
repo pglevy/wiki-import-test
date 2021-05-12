@@ -8,7 +8,7 @@ To help Bixal explore new business opportunities by engaging in structured desig
 
 * **Build a consulting mindset**: Proactively seek out opportunities to add value to our existing client relationships.
 * **Support growth**: Win new business by embedding the capability to rapidly prototype solutions in response to RFPs.
-* **Raise Bixal's profile**: Increase visibility of Bixal in the civic tech community as an organization proactively working to improve government services with innovative, impactful solutions.
+* **Contribute to the community**: Increase visibility of Bixal in the civic tech community as an organization proactively working to improve government services with innovative, impactful solutions.
 
 ### Principles
 This team is an extension of our HCD team. The intention is to augment and amply our human-centered design practice with these areas of emphasis:
