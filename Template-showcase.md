@@ -2,12 +2,7 @@
 
 ### Article
 
-<p class="codepen" data-height="360" data-theme-id="light" data-default-tab="result" data-user="pglevy" data-slug-hash="wvgjyzr" style="height: 360px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="USWDS Template: Article">
-  <span>See the Pen <a href="https://codepen.io/pglevy/pen/wvgjyzr">
-  USWDS Template: Article</a> by Bixal's Rapid Response Team (<a href="https://codepen.io/pglevy">@pglevy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-
-
-
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="331" style="width: 100%;" scrolling="no" title="USWDS Template: Article" src="https://codepen.io/pglevy/embed/wvgjyzr?height=331&theme-id=light&default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/pglevy/pen/wvgjyzr'>USWDS Template: Article</a> by Philip Levy
+  (<a href='https://codepen.io/pglevy'>@pglevy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
