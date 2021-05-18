@@ -7,3 +7,4 @@
   * Keep content structured
   * Use plain-language
   * Do the non-interactive basics: alt text, labels, typography, contrast, etc.
+* Include a link to the content source.
