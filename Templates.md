@@ -13,6 +13,7 @@
 * Let's stick with the "desktop lg" and "mobile lg" sizes. Tablet is just more work, and something that we can communicate better in code anyway. 
 * The grid is your friend. Since everything in the code uses the grid, let's use the one provided by the preset frames/screens. 
 * It's difficult to manage the preset text styles in Figma and have them match up correctly in CodePen. To ensure consistency, refer to the ‘Font sizes’ frame in USWDS Components page in Figma or [theme tokens](https://designsystem.digital.gov/design-tokens/typesetting/font-size/) in USWDS.
+* Use whole numbers (based on the Truss Lib font sizes) for setting type size (not fractional sizes).
 
 ## FAQs
 * Is it standard practice to place an id(#) with H2 tag(s)?
