@@ -1,3 +1,5 @@
+Here are some examples of our work, including both concept projects and tools for rapid prototyping.
+
 ## [Medical supply catalog](https://bixal.github.io/med-supply-cat/)
 
 A concept product catalog site built in about 4 weeks, including a home page, category landing pages, and product page. [Source code](https://github.com/Bixal/med-supply-cat)
