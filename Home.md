@@ -11,7 +11,7 @@ To help Bixal explore new business opportunities by engaging in structured desig
 * **Contribute to the community**: Increase visibility of Bixal in the civic tech community as an organization proactively working to improve government services with innovative, impactful solutions.
 
 ### Principles
-This team is an extension of our HCD team. The intention is to augment and amply our human-centered design practice with these areas of emphasis:
+This team is an extension of our HCD team. The intention is to augment and amplify our human-centered design practice with these areas of emphasis:
 
 * **Speed**: With more making and less meetings, we decrease time to tangibility.
 * **Tangibility**: By making prototypes, not promises, we increase our time to alignment.
