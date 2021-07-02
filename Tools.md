@@ -18,3 +18,4 @@ These are things that may help with specific utility tasks like copying and past
 
 * [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 * [Stackedit](https://stackedit.io/)
+* [How to turn any GitHub repo into a CDN](https://gomakethings.com/how-to-turn-any-github-repo-into-a-cdn/)
