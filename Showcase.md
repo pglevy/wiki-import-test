@@ -1,8 +1,8 @@
 Here are some examples of our work, including both concept projects and tools for rapid prototyping.
 
-## [USWDS Screener Prototyping Tool](https://bixal.github.io/complaint-screener/)
+## [USWDS Screener Prototyping Tool](https://bixal.github.io/uswds-screener-prototyping-tool/)
 
-A customizable form for prototyping a screener experience that either enables people to proceed or directs them to other resource based on their responses. [Source code](https://github.com/Bixal/complaint-screener)
+A customizable form for prototyping a screener experience that either enables people to proceed or directs them to other resource based on their responses. [Source code](https://github.com/Bixal/uswds-screener-prototyping-tool)
 
 ## [Medical supply catalog](https://bixal.github.io/med-supply-cat/)
 
