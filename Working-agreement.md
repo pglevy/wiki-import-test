@@ -83,8 +83,8 @@ Depending on the nature of the issue, some issues may be deployed immediately. O
 These are the core members of the team. Other people may augment the team from time to time depending on their availability and skillset and the needs of an engagement.
 
 - Product owner: Philip
-- Designer: Kayla
-- Design Technologist: Brianna
+- UX Designer: Brianna
+- UX Designer: TBD
 
 # Meetings
 We aim to have as few meetings as possible. The product owner will also shield the rest of the team from external meetings when possible.
