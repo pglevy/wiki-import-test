@@ -84,7 +84,7 @@ These are the core members of the team. Other people may augment the team from t
 
 - Product owner: Philip
 - UX Designer: Brianna
-- UX Designer: TBD
+- UX Designer: Demi
 
 # Meetings
 We aim to have as few meetings as possible. The product owner will also shield the rest of the team from external meetings when possible.
