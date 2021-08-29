@@ -4,5 +4,5 @@
 
 ## Project Stories
 
-- [USWDS Screener Prototyping Tool](Project-story-—-USWDS-Screener-Prototyping-Tool.md)
+- [USWDS Screener Prototyping Tool](Project-story-—-USWDS-Screener-Prototyping-Tool)
 - Medical supply catalog
