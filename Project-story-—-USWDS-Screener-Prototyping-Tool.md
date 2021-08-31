@@ -23,6 +23,8 @@ Feedback from the first iteration helped to determine the focus for the second i
 
 After making changes to the prototype, the response from usability testing was overwhelmingly positive. People “felt educated” with the provided examples and resources throughout the screener and most of them felt it was “straightforward, clear, and easy-to-understand”. 
 
+![Screencast of multiple wireframes drafted for a complaint screener form.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/screener-form-flow.png)
+
 ## Improving reusability
 
 The next two iterations focused on running usability tests on the project repository in GitHub to see how well people could reuse the tool as a template for similar projects of their own. We made the following improvements:
