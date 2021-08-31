@@ -19,11 +19,11 @@ We determined the initial scope for our solution prototype:
 
 From the baseline usability test with the original complaint portal assistant, our main question to answer was *how might we get people to the complaint form as soon as possible with the least amount of confusion?* For the first iteration, we built content features (what would go on each page) and template features (how to structure a reusable layout) were built.
 
+![Screencast of multiple wireframes drafted for a complaint screener form.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/screener-form-flow.png)
+
 Feedback from the first iteration helped to determine the focus for the second iteration which included improving the logic flow, improving the communication of where you are in the process, and increasing plain language.
 
 After making changes to the prototype, the response from usability testing was overwhelmingly positive. People “felt educated” with the provided examples and resources throughout the screener and most of them felt it was “straightforward, clear, and easy-to-understand”. 
-
-![Screencast of multiple wireframes drafted for a complaint screener form.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/screener-form-flow.png)
 
 ## Improving reusability
 
