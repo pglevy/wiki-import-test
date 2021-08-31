@@ -6,7 +6,9 @@ Before filing a complaint relating to HIPPA violations with the Health and Human
 
 - It was not clear that the assistant was a screener.
 - It was extremely difficult to understand.
-- Where people ended up was confusing (even when successful). 
+- Where people ended up was confusing (even when successful).
+
+![GIF showing an attempt to file an online complaint through the Health and Human Services complaint portal assistant.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/hhsocr-complaint-portal.gif) 
 
 We determined the initial scope for our solution prototype:
 - Provide a way to easily create, edit, and reorder question and answer content. 
