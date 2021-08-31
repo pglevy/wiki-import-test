@@ -2,7 +2,7 @@ The process of filling out a complaint form can be long and complex. As a common
  
 ## Defining the problem and scoping a soluion
 
-Before filing a complaint relating to HIPPA violations with the Health and Human Services Office for Civil Rights (HHS OCR), people are first taken through a “complaint portal assistant”. We discovered a number of blockers during baselines testing:
+Before filing a complaint relating to HIPPA violations with the Health and Human Services Office for Civil Rights (HHS OCR), people are first taken through a “complaint portal assistant”. We discovered a number of blockers during baseline testing:
 
 - It was not clear that the assistant was a screener.
 - It was extremely difficult to understand.
@@ -36,4 +36,4 @@ The next two iterations focused on running usability tests on the project reposi
 
 - Based on user testing, the current HHS OCR complaint process is difficult to understand and does not always guide people to the proper source.
 - People enjoyed how simple and easy the prototype made the complaint screener process.
-- Having step-by-step instructions, visual guides, and inline comments made reusing the template a smoother process, especially for less-technical people.
+- Having step-by-step instructions, visual guides, and inline comments made reusing the template a smoother process, especially for less technical people.
