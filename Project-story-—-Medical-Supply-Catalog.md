@@ -1,5 +1,3 @@
-# Building a medical supply catalog proof-of-concept for an international agency through rapid prototyping and live coding tools.
-
 As design opportunities arise in the civic tech community, many agencies find participation difficult due to limited manpower and business constraints. In an effort to mitigate these limitations, Bixal has jumpstarted a cross-disciplinary "rapid response team" to bring value to existing projects by taking the weight off of delivery teams, respond to proposals and their related design challenges, and discover new initiatives. Completed in approximately three days, the first iteration of the prototype explores the potentials of a more adaptable and user-friendly product. The new design consists of a catalog page and some product pages that allow users to view product images, product meta-data, and detailed information in a streamlined structure. The design layout uses the USWDS design system and can be viewed in both Figma, a prototyping tool, and CodePen, an open-source code editor that allows you to see your code in real-time.
 
 ## Description
