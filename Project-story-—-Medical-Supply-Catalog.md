@@ -1,6 +1,6 @@
 Completed in approximately three days, the first iteration of the prototype explores the potentials of a more adaptable and user-friendly product. The new design consists of a catalog page and some product pages that allow users to view product images, product meta-data, and detailed information in a streamlined structure. It also uses the USWDS and can be viewed in both Figma, a prototyping tool, and CodePen, an open-source code editor that allows you to see your code in real-time.
  
-## The Problem + Solution
+## The Problem and Solution
 
 An international agency provides supply-chain logistics for partners around the world. As part of their service, the agency produces a catalog of medical supplies available for order. Currently, the catalog is only available as a PDF file, which causes issues with accessibility, recency of information, findability, and overuse of paper resources. As a proof-of-concept, the solution included two primary pages: a catalog page and an item page.
  
