@@ -1,6 +1,6 @@
 The process of filling out a complaint form can be long and complex. As a common tool used in government, it is important to help guide people to the most relevant outlets and resources. Within a few weeks, our team was able to produce a working prototype built upon multiple usability tests, which helped us improve its functionality and reusability.
  
-## Defining the problem and scoping a soluion
+## Defining the problem and scoping a solution
 
 Before filing a complaint relating to HIPPA violations with the Health and Human Services Office for Civil Rights (HHS OCR), people are first taken through a “complaint portal assistant”. We discovered a number of blockers during baseline testing:
 
@@ -19,13 +19,13 @@ We determined the initial scope for our solution prototype:
 
 ## Building and improving functionality
 
-From the baseline usability test with the original complaint portal assistant, our main question to answer was *how might we get people to the complaint form as soon as possible with the least amount of confusion?* For the first iteration, we built content features (what would go on each page) and template features (how to structure a reusable layout) were built.
+From the baseline usability test with the original complaint portal assistant, our main question to answer was *how might we get people to the complaint form as soon as possible with the least amount of confusion?* For the first iteration, we built out content features (what would go on each page) and template features (how to structure a reusable layout).
 
 ![Screencast of multiple wireframes drafted for a complaint screener form.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/screener-form-flow.png)
 
 Feedback from the first iteration helped to determine the focus for the second iteration which included improving the logic flow, improving the communication of where you are in the process, and increasing plain language.
 
-After making changes to the prototype, the response from usability testing was overwhelmingly positive. People “felt educated” with the provided examples and resources throughout the screener and most of them felt it was “straightforward, clear, and easy-to-understand”. 
+After making changes to the prototype, the response from usability testing was overwhelmingly positive. People “felt educated” with the provided examples and resources throughout the screener and most of them stated it was “straightforward, clear, and easy-to-understand”. 
 
 ## Improving reusability
 
