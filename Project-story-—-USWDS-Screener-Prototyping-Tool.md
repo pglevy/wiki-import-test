@@ -31,7 +31,7 @@ After making changes to the prototype, the response from usability testing was o
 
 The next two iterations focused on running usability tests on the project repository in GitHub to see how well people could reuse the tool as a template for similar projects of their own. 
 
-![Screencast of two journey maps with a range of smiley and sad emojis. The first map displays a rollercoaster of emotions whereas the second map displays emotions that are much more content and happy.](https://raw.githubusercontent.com/Bixal/rapid-response-team/main/assets/img/reusability-journey-map-emotions.png)
+![Screencast of two journey maps with a range of smiley and sad emojis. The first map displays a rollercoaster of emotions whereas the second map displays emotions that are much more content and happy.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/screener-reusability-journey-map-emotions.png?raw=true)
 
 We made the following improvements:
 
