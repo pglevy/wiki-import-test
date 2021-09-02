@@ -11,11 +11,11 @@ An international agency provides supply-chain logistics for partners around the 
 
 
 
-As a proof-of-concept, our team determined the solution would include two primary pages: a catalog page and an item page.
+As a proof-of-concept, our team built a prototype that would include a redesign for two primary pages: a catalog page and a product page.
 
 ## Page features
 
-The catalog page displays nine product pages across five distinct categories. The following are included:
+The catalog page displays nine product pages across five distinct categories with the following included:
 
 - Cards with related media images
 - Metadata for the number of products in a category
@@ -34,6 +34,7 @@ Some other features that can be found on these pages include a header and footer
 ## Additional changes
 
 After receiving client feedback, we performed a second iteration and made the following changes:
+
 - Added an "Add to list" button to the product page.
 - Added "last updated" along with some other meta data to the product page. 
 - Added a language selector.
@@ -41,6 +42,5 @@ After receiving client feedback, we performed a second iteration and made the fo
 
 ## Takeaways
 
-- Produced a tangible, working prototype shared to our client.
-- Created reusable content for future projects.
-- Shared our work through an open-source approach.
+- Produced a tangible, working prototype shared with our client.
+- Crafted a reusable prototype template for similar projects.
