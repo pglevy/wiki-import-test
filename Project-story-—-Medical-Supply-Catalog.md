@@ -15,7 +15,7 @@ As a proof-of-concept, our team built a prototype that would include a redesign 
 
 ## Page features
 
-The catalog page displays nine product pages across five distinct categories with the following included:
+The catalog page displays nine product pages across six distinct categories with the following included:
 
 - Cards with related media images
 - Metadata for the number of products in a category
