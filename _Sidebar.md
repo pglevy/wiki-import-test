@@ -3,7 +3,7 @@
 * [Events](https://github.com/Bixal/rapid-response-team/wiki/events)
 * [Roadmap](https://codepen.io/pglevy/full/XWRbjGR)
 * [Milestones](https://github.com/Bixal/rapid-response-team/milestones)
-* [Projects](wiki/Projects)
+* [Projects](https://github.com/Bixal/rapid-response-team/wiki/projects)
 * [Repos](https://github.com/orgs/Bixal/teams/rapid-response/repositories)
 * [Working agreement](https://github.com/Bixal/rapid-response-team/wiki/working-agreement)
 * [Inspiration](https://github.com/Bixal/rapid-response-team/wiki/inspiration)
