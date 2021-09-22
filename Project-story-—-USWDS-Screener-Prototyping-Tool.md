@@ -1,8 +1,8 @@
-The process of filling out a complaint form can be long and complex. As a common tool used in government, it is important to help guide people to the most relevant outlets and resources. Within a few weeks, our team was able to produce a working prototype built upon multiple usability tests, which helped us improve its functionality and reusability.
+The process of filling out a complaint form can be long and complex. As a common tool used in government, it is important to help guide people to the most relevant outlets and resources. Within a few weeks, our team was able to produce a working [screener prototype](https://bixal.github.io/uswds-screener-prototyping-tool/) built upon multiple usability tests, which helped us improve its functionality and reusability.
  
 ## Defining the problem and scoping a solution
 
-Before filing a complaint relating to HIPPA violations with the Health and Human Services Office for Civil Rights (HHS OCR), people are first taken through a “complaint portal assistant”. We discovered a number of blockers during baseline testing:
+Before filing a complaint relating to HIPPA violations with the Health and Human Services Office for Civil Rights (HHS OCR), people are first taken through a “[complaint portal assistant](https://ocrportal.hhs.gov/ocr/smartscreen/main.jsf)”. We discovered a number of blockers during baseline testing:
 
 - It was not clear that the assistant was a screener.
 - It was extremely difficult to understand.
