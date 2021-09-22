@@ -25,7 +25,9 @@ From the baseline usability test with the original complaint portal assistant, o
 
 Feedback from the first iteration helped to determine the focus for the second iteration which included improving the logic flow, improving the communication of where you are in the process, and increasing plain language.
 
-After making changes to the prototype, the response from usability testing was overwhelmingly positive. People “felt educated” with the provided examples and resources throughout the screener and most of them stated it was “straightforward, clear, and easy-to-understand”. 
+After making changes to the prototype, the response from usability testing was overwhelmingly positive. People “felt educated” with the provided examples and resources throughout the screener and most of them stated it was “straightforward, clear, and easy-to-understand”.
+
+![GIF showing a walkthrough of a newly designed simple and straightforward web screener form.](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/screener-proto.gif?raw=true) 
 
 ## Improving reusability
 
