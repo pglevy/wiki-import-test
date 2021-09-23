@@ -14,7 +14,7 @@ To help Bixal explore new business opportunities by engaging in structured desig
 This team is an extension of our HCD team. The intention is to augment and amplify our human-centered design practice with these areas of emphasis:
 
 * **Speed**: With more making and less meetings, we decrease time to tangibility.
-* **Tangibility**: By making prototypes, not promises, we increase our time to alignment.
+* **Tangibility**: By making prototypes, not promises, we increase our rate of learning.
 * **Reusability**: With a focus on frameworks, we can make everything we do faster.
 * **Openness**: By sharing our work, we can benefit from and contribute to the community.
 
