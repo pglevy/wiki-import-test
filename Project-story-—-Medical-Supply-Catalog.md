@@ -9,7 +9,7 @@ An international agency provides supply-chain logistics for partners around the 
 - Findability 
 - Overuse of paper resources
 
-![Screencast of an of an oddly laid-out product page with large labels depicting what each section represents. ](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/med-supply-cat-origial-catalog.png?raw=true)
+![Screencast of an oddly laid-out product page with large labels depicting what each section represents. ](https://github.com/Bixal/rapid-response-team/blob/main/assets/img/med-supply-cat-origial-catalog.png?raw=true)
 
 As a proof-of-concept, our team built a prototype that would include a redesign for two primary pages: a catalog page and a product page.
 
