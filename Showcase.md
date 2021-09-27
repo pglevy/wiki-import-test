@@ -1,5 +1,13 @@
 Here are some examples of our work, including both concept projects and tools for rapid prototyping.
 
+## [USWDS Design Tokens Guide](https://bixal.github.io/uswds-design-tokens-guide/)
+
+A guide for helping designers progressively understand and apply the use of design tokens in their work — ultimately increasing adoption of the U.S. Web Design System among digital services teams working on government websites. [Source code](https://github.com/Bixal/uswds-design-tokens-guide)
+
+## [Presentation template](https://bixal.github.io/presentation-template/)
+
+A template for creating web-based presentation slides using USWDS and Bixal branding. [Source code](https://github.com/Bixal/presentation-template)
+
 ## [USWDS Screener Prototyping Tool](https://bixal.github.io/uswds-screener-prototyping-tool/)
 
 A customizable form for prototyping a screener experience that either enables people to proceed or directs them to other resource based on their responses. [Source code](https://github.com/Bixal/uswds-screener-prototyping-tool)
