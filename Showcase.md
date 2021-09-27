@@ -4,7 +4,7 @@ Here are some examples of our work, including both concept projects and tools fo
 
 A guide for helping designers progressively understand and apply the use of design tokens in their work — ultimately increasing adoption of the U.S. Web Design System among digital services teams working on government websites. [Source code](https://github.com/Bixal/uswds-design-tokens-guide)
 
-## [Presentation template](https://bixal.github.io/presentation-template/)
+## [Web presentation template](https://bixal.github.io/presentation-template/)
 
 A template for creating web-based presentation slides using USWDS and Bixal branding. [Source code](https://github.com/Bixal/presentation-template)
 
