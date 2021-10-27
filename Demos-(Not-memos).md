@@ -13,7 +13,7 @@ These are links to videos of our cycle demos. The videos are currently only avai
 - Presentation website project for DC Design Week talk (was: Project Story template)
 - USWDS Typography toolkit (Figma Tokens plug-in POC and discussion)
 
-## [Cycle 4](https://bixal365.sharepoint.com/:v:/s/RapidResponse/Ea1gdswV8cNLryKvSrX0z68B-tyv_L7g9A8KitRCC3gmMA?e=o0nuRi)
+## [Cycle 4](https://bixal365.sharepoint.com/:v:/s/RapidResponse/ESpXFFEsug9AkczaSmY9GEQBkjAQJsm0wBe-IS20R49BvQ?e=wX1vr0)
 
 - Feedback
    - Quick update on the USWDS Page Templates and the Complaint Screener project
