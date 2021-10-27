@@ -24,3 +24,9 @@ These are links to videos of our cycle demos. The videos are currently only avai
 - [Complaint Screener project](https://bixal.github.io/uswds-screener-prototyping-tool/)
 - Publicizing our work internally: [Lunch&Learn](https://bixal365.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=N3Xllk&cid=4123a42e%2D9c6e%2D4fe6%2D9043%2D378f92dd3255&RootFolder=%2FShared%20Documents%2FLunch%20and%20Learns%2F20210701%20%2D%20The%20Rapid%20Response%20Team&FolderCTID=0x01200031F810D72D395248BD3D14D48D34F542)
 - [Roadmap for H2 2021](https://codepen.io/pglevy/full/XWRbjGR)
+
+## [Cycle 1 + 2](https://bixal365.sharepoint.com/:v:/s/RapidResponse/EU-IKHlSqBxPpL-MEdkiQzMBrOHxhMtuIsO-6jNmbtl32Q?e=9wKKpS)
+
+- [Roadmap](https://github.com/Bixal/rapid-response-team/projects/1) for initial 30/60/90-days
+- [Content data repository](https://github.com/Bixal/rrt-content)
+- [Medical Supply Catalog project](https://bixal.github.io/med-supply-cat/)
