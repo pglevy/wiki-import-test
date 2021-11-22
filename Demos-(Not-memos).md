@@ -1,5 +1,16 @@
 These are links to videos of our cycle demos. The videos are currently only available to people inside the Bixal organization. Everyone can see previous cycle milestones and related content in our [team wiki](https://github.com/Bixal/rapid-response-team/milestones?state=closed).
 
+## [Cycle 8]()
+
+- Onboarding experience project
+   - [Miro board]()
+   - [FigJam file]()
+
+## [Cycle 7]()
+
+- [Data Privacy Certification (DPC) design challenge]()
+- [Presenting the Design Tokens Guide]() - HCD Design Sync
+
 ## [Cycle 6](https://bixal365.sharepoint.com/:v:/s/RapidResponse/ETrcBfgKd1NDpT3zbd9I_1gBZxa7wnsL86hFe1jTo_JzaQ?e=C2cb2P)
 
 - Demo of [USWDS Design Tokens Guide](https://bixal.github.io/uswds-design-tokens-guide/)
