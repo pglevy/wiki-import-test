@@ -1,15 +1,16 @@
 These are links to videos of our cycle demos. The videos are currently only available to people inside the Bixal organization. Everyone can see previous cycle milestones and related content in our [team wiki](https://github.com/Bixal/rapid-response-team/milestones?state=closed).
 
-## [Cycle 8]()
+## [Cycle 8](https://bixal365.sharepoint.com/sites/RapidResponse/Shared%20Documents/General/Demos%20(not%20memos)/Cycle%208%20demo-20211123_150943-Meeting%20Recording.mp4)
 
 - Onboarding experience project
-   - [Miro board]()
-   - [FigJam file]()
+   - [Miro board](https://miro.com/app/board/o9J_lkmj560=/)
+   - [FigJam file](https://www.figma.com/file/r5VfgD5AK1M4teqInftqld/HCD---Onboarding-Experience-2021?node-id=0%3A1)
 
-## [Cycle 7]()
+## [Cycle 7](https://bixal365.sharepoint.com/sites/RapidResponse/Shared%20Documents/General/Demos%20(not%20memos)/Cycle%207%20demo-20211123_145037-Meeting%20Recording.mp4)
 
-- [Data Privacy Certification (DPC) design challenge]()
-- [Presenting the Design Tokens Guide]() - HCD Design Sync
+- [Data Privacy Certification (DPC) design challenge](https://www.figma.com/file/i0cni6eyOgCUHEm1eHcXWN/Data-Privacy-Certification-(DPC)---Design-Challenge?node-id=170%3A27230)
+- [HCD Design Sync - Design Tokens Guide Presentation](https://bixal365-my.sharepoint.com/personal/demi_johnson_bixal_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdemi%5Fjohnson%5Fbixal%5Fcom%2FDocuments%2FRecordings%2FHCD%20Sync%2D20211102%5F120329%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fdemi%5Fjohnson%5Fbixal%5Fcom%2FDocuments%2FRecordings) 
+  - [Presentation Slides](https://bixal.github.io/design-token-presentation/)
 
 ## [Cycle 6](https://bixal365.sharepoint.com/:v:/s/RapidResponse/ETrcBfgKd1NDpT3zbd9I_1gBZxa7wnsL86hFe1jTo_JzaQ?e=C2cb2P)
 
